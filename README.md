@@ -1,1 +1,2 @@
-# JEditor-Java-text-editor-
+# JEditor (Java text editor)
+  Simple text editor 
