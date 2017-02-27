@@ -1,6 +1,8 @@
 # JEditor (Java text editor)
-  Simple text editor 
-  ![alt tag](https://github.com/said026/JEditor-Java-text-editor/blob/master/screenshot.png)
+
+Simple text editor 
+
+![alt tag](https://github.com/said026/JEditor-Java-text-editor/blob/master/screenshot.png)
 
 ## Intructions 
 Simply run the jar file :
